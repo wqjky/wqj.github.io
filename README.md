@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome miss 张慧琳
 
-You can use the [editor on GitHub](https://github.com/wqjky/wqj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Some of us get dipped in flat, some in satin, some in gloss. But every once in a while you find someone who's iridescent, and when you do, nothing will ever compare. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 我们准备着深深地领受/那些意想不到的奇迹
 
-### Markdown
+### 在漫长的岁月里忽然有/彗星的出现，狂风乍起
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我不知为何，平日里天地不怕，看见你就有些怯。我怕我对你的爱慕，配不上你这个人。我甚至不敢想你怎么会愿意，同我这个小人物一起度过余生。但我总是想要你的，我从没有怀疑过。
 
 ```markdown
-Syntax highlighted code block
+是谁来自山川湖海，却囿于昼夜、厨房与爱。
+
 
 # 张慧琳虽然是头猪
 ## 但我还是很爱她啊
 ### mua.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+我的忧虑都是未雨绸缪，冲动不过少年意气，我的骄傲其实虚张声势，领悟也只有冰山一角。
 
-### Jekyll Themes
+### To HuiLin Zhang
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wqjky/wqj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我爱你是不变的，我们一起去面对未来的坎坎坷坷啊
 
 ### Support or Contact
+wqjhky@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
